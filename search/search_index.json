@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to Container notes.","text":""},{"location":"#contents","title":"Contents","text":"<ol> <li>Docker</li> <li>Kubernetes</li> <li>Podman</li> </ol>"}]}
